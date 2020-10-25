@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1062002978590",
+    "firebase_url": "https://drink-it-8f4bc.firebaseio.com",
+    "project_id": "drink-it-8f4bc",
+    "storage_bucket": "drink-it-8f4bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062002978590:android:7719b89ad09bc56d48a30f",
+        "android_client_info": {
+          "package_name": "com.derida.drink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062002978590-2ps2jl486n460t842behgq5i0pqelbkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHYvE8xTC2PRiwAUaPuJeRf5QEC4Vc1MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062002978590-2ps2jl486n460t842behgq5i0pqelbkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
